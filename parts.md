@@ -39,24 +39,21 @@ The Jig outlines the place where holes are needed to be placed.
 <img src="images/housingcut.jpg" width="300">
 The aluminum housing was drilled with 3 holes. 2 small holes: 1 for the antenna and 1 for the grey power cable. 1 large hole where the black gooseneck is placed.
 
-#### Housing with Drummit 
+#### Housing with Grommet 
 <img src="images/housingdrummit.jpg" width="300">
-The bottim hole of the 2 set hole on the alumiinum housing contains a drummit.
+The bottim hole of the 2 set hole on the alumiinum housing contains a grommet.
 
 ### Wifi
 #### Cut Wifi Cable 
 <img src="images/wificable.jpg" width="300">
+
 Whole view of the wifi cable that is placed in the housing which is connected to the wifi ship and the PI board.
 <img src="images/cutusbwifi.jpg" width="300">
 The corner of the wifi cable is cut using a box cutter.
 
-#### Wifi Chip with Case (Before)
-<img src="images/wificase.jpg" width="300">
-The original piece bought.
-
-#### Wifi Exposed Chip (After)
+#### Wifi Exposed Chip
 <img src="images/wifichip.jpg" width="300">
-Removed black outter casing of the original wifi chip.
+Wifi chip.
 
 #### Completed PI Board
 <img src="images/frontpiboard.jpg" width="300">
@@ -81,9 +78,6 @@ Placed after the red rubber o rings on the ridges of the gooseneck within the ho
 This is a 3 piece product that includes 2 black casing pieces and a metal USB port. The USB port of the female USB connector piece is soldered to the USB cable. The oposite side of this piece connects to the tinned wires of the grey power cable.
 
 ## Out of Housing Parts
-### Power over Ethernet Module
-<img src="images/ethernet.jpg" width="300">
-This piece includes a board, wifi port, 1 black wifi cable, and 1 black power cable.
 
 ### Tinned Wires 
 <img src="images/wiretinned.jpg" width="300">

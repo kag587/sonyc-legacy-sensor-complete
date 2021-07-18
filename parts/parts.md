@@ -91,26 +91,7 @@ There are 4 parts to the male USB connector including a chip cased in white plas
 <img src="images/poweradapter.jpg" width="300">
 On one end of the power adapter, it is connected to the male USB connector piece. On the other end of the power adapter, it is connected to an outlet.
 
-## Tools and Sealant Supplies
-### Liquid Tape
-<img src="images/liquid_tape.jpg" width="300">
-This is used to protect fragile pieces of the sensor or seal openings from weather conditions. For example, the liquid tape is glued over the back of the mircophone chip to protect the chip in the 3D printed mount base.
-
-### Super Glue
-<img src="images/superglue.jpg" width="150">
-It is used to attach pieces to each other and seal openings. For example, super glue is used to attach bases of the the plastic, hexagonal pins to the inside bottom of the housing box.
-
-### Silicone
-<img src="images/silicone.jpg" width="300">
-It is used for sealing openings.
-
-### Sugru
-<img src="images/sugru.jpg" width="300">
-It is used for sealing openings.
-
-### Box Cutter
-<img src="images/boxcutter.jpg" width="300">
-It is used to cut and trim wires such as the power cable.
+## Build Tools
 
 ### Pliers 
 <img src="images/pliers.jpg" width="300">
@@ -120,10 +101,6 @@ It is used to trim and strip wires.
 <img src="images/lockpliers.jpg" width="300">
 It is used to tighten the lock nut.
 
-### Box Cutters
-<img src="images/boxcutter.jpg" width="300">
-It is used to cut wires.
-
 ### Wire Cutters
 <img src="images/wirecutter.jpg" width="300">
 It is used to cut wires.
@@ -132,6 +109,3 @@ It is used to cut wires.
 <img src="images/drillbit.jpg" width="300">
 It is used to drill holes in the housing box to allow cables and pieces, such as the gooseneck, grey power cable, and antenna, to connect the outside of the housing to inside. 
 
-## Programmer/Debugger
-<img src="images/programmer.jpg" width="300">
-It is used to program the PI board. It includes a clear box and a flat, grey wire.

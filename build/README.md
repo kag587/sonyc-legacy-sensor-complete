@@ -1,7 +1,26 @@
 # SONYC Sensor Build Process
 
-[This](link to build.md) file contains the build process for sensors. This includes step by step instrustions, links to needed software, and visual aids.
+*[This](https://github.com/kag587/sonyc-legacy-sensor-complete/blob/master/build/build.md)* file contains the build process for sensors. 
 
-The list of required parts can be found [here](link to parts.md)
+The document includes step by step instrustions, links to needed software, and visual aids.
 
-**insert pictures of fully build sensors*
+**Before you read the build procedure!**
+
+The list of required parts for sensors can be found *[here](https://github.com/kag587/sonyc-legacy-sensor-complete/blob/master/parts/parts.md)*
+
+<br /> 
+
+### Sensor Anatomy
+
+This is a look at the inside and outside of a completed sensor. 
+
+<img src="images/inside_sensor_anatomy.jpeg">
+
+*Inside Sensor Anatomy*
+
+
+<br /> 
+
+<img src="images/outside_sensor_anatomy.jpeg">
+
+*Outside Sensor Anatomy*

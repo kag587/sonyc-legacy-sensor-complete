@@ -9,7 +9,7 @@ The document includes step by step instrustions, links to needed software, and v
 The list of required parts for sensors can be found *[here](https://github.com/kag587/sonyc-legacy-sensor-complete/blob/master/parts/parts.md)*
 
 
-### Sensor Anatomy
+## Sensor Anatomy
 
 This is a look at the inside and outside of a completed sensor. 
 

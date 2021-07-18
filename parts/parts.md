@@ -97,9 +97,6 @@ On one end of the power adapter, it is connected to the male USB connector piece
 <img src="images/pliers.jpg" width="300">
 It is used to trim and strip wires.
 
-### Locking Pliers
-<img src="images/lockpliers.jpg" width="300">
-It is used to tighten the lock nut.
 
 ### Wire Cutters
 <img src="images/wirecutter.jpg" width="300">

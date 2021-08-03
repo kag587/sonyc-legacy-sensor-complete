@@ -6,7 +6,7 @@ This branch contains the parts list and process to build sensors.
 
 SONYC repo images
 
-<image src="images/outside_sensor_anatomy.jpeg" width="300">
+<image src="outside_sensor_anatomy.jpeg" width="300">
 
 Typical Sensor Components (Outside): 
 1. Housing 
@@ -16,7 +16,7 @@ Typical Sensor Components (Outside): 
 5. Power Cable 
 
 
-<image src="images/inside_sensor_anatomy.jpeg" width="300">
+<image src="inside_sensor_anatomy.jpeg" width="300">
 
 Typical Sensor Components (Inside): 
 1. Raspberry Pi 

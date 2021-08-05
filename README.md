@@ -31,19 +31,19 @@ The sensor network deployments in the reviewed literature are typically short in
 
 ### Other Publications
 
-<img src=sonyc_logo.jpeg width="300">
+<img src=images/sonyc_logo.jpeg width="300">
 
 
 A list of other publications that feature the SONYC project can be found on the SONYC website [here](hhttps://wp.nyu.edu/sonyc/).
 
 
 ### New York Times
-<img src=nyt_sensor.jpeg width="300">
+<img src=images/nyt_sensor.jpeg width="300">
 
 SONYC was featured in a New York Times article about the decreased city noise in April of 2020 due to the COVID-19 pandemic. This article can be found [here](https://www.nytimes.com/interactive/2020/05/22/upshot/coronavirus-quiet-city-noise.html).
 
 ## Sensor Images
 
-<img src=sensor_1.JPG width="300">
-<img src=sensor_2.JPG width="300">
-<img src=sensor_3.JPG width="300">
+<img src=images/sensor_1.JPG width="300">
+<img src=images/sensor_2.JPG width="300">
+<img src=images/sensor_3.JPG width="300">

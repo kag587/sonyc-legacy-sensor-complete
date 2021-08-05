@@ -1,4 +1,4 @@
-<img src=images/sonyc_logo.jpeg width="100%">
+<img src=images/sonyc_logo_banner.jpeg width="100%">
 
 # SONYC Legacy System
 

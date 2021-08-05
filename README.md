@@ -1,3 +1,5 @@
+<img src=images/sonyc_logo.jpeg width="100%">
+
 # SONYC Legacy System
 
 ## Introduction

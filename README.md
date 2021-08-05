@@ -142,13 +142,12 @@ and forcing components out of place.
 
 ### Other Publications
 
-<img src="images/logo_yt.jpg" height="350">
-
-A list of other publications that feature the SONYC project can be found on the SONYC website [here](https://wp.nyu.edu/sonyc/).
-
 
 ### New York Times
 <img src=images/nyt_sensor.jpeg width="500">
 
 SONYC was featured in a New York Times article about the decreased city noise in April of 2020 due to the COVID-19 pandemic. This article can be found [here](https://www.nytimes.com/interactive/2020/05/22/upshot/coronavirus-quiet-city-noise.html).
 
+<img src="images/logo_yt.jpg" height="350">
+
+A list of other publications that feature the SONYC project can be found on the SONYC website [here](https://wp.nyu.edu/sonyc/).

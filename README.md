@@ -44,6 +44,6 @@ SONYC was featured in a New York Times article about the decreased city noise in
 
 ## Sensor Images
 
-<img src=sensor_1.jpg width="300">
-<img src=sensor_2.jpg width="300">
-<img src=sensor_3.jpg width="300">
+<img src=sensor_1.JPG width="300">
+<img src=sensor_2.JPG width="300">
+<img src=sensor_3.JPG width="300">

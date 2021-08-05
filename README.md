@@ -5,23 +5,18 @@
 ## Table of Contents
 
 1. [Parts](https://github.com/kag587/sonyc-legacy-sensor-complete/tree/master/parts)
-<br> 
 List of all of the parts needed to build a sensor.
 
 2. [Build](https://github.com/kag587/sonyc-legacy-sensor-complete/tree/master/build)
-<br> 
 Step-by-step building instructions for sensors.
 
 3. [Code](https://github.com/kag587/sonyc-legacy-sensor-complete/tree/master/code)
-<br> 
 Codebase for SONYC sensors and servers.
 
 4. [Docs](https://github.com/kag587/sonyc-legacy-sensor-complete/tree/master/docs)
-<br> 
 Additional documents and information about SONYC Legacy sensors.
 
 4. [SD-Setup](https://github.com/kag587/sonyc-legacy-sensor-complete/tree/master/sd-setup)
-<br> 
 Info about the specific Raspian OS used for this project as well as how to use it.
 
 ## Introduction

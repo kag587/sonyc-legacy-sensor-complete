@@ -5,19 +5,34 @@
 ## Table of Contents
 
 1. [Parts](https://github.com/kag587/sonyc-legacy-sensor-complete/tree/master/parts)
+
 List of all of the parts needed to build a sensor.
 
+<br> 
+
 2. [Build](https://github.com/kag587/sonyc-legacy-sensor-complete/tree/master/build)
+
 Step-by-step building instructions for sensors.
 
+<br> 
+
 3. [Code](https://github.com/kag587/sonyc-legacy-sensor-complete/tree/master/code)
+
 Codebase for SONYC sensors and servers.
 
+<br> 
+
 4. [Docs](https://github.com/kag587/sonyc-legacy-sensor-complete/tree/master/docs)
+
 Additional documents and information about SONYC Legacy sensors.
 
+<br> 
+
 4. [SD-Setup](https://github.com/kag587/sonyc-legacy-sensor-complete/tree/master/sd-setup)
+
 Info about the specific Raspian OS used for this project as well as how to use it.
+
+<br> 
 
 ## Introduction
 Noise pollution is an increasing threat to the well-being and public health of city inhabitants. It has been estimated that around 90% of New York City (NYC) residents are exposed to noise levels exceeding the Environmental Protection Agencies (EPA) guidelines on levels considered harmful to people. The complexity of sound propagation in urban settings and the lack of an accurate representation of the distribution of the sources of this noise have led to an insufficient understanding of the urban sound environment. While a number of past studies have focused on specific contexts and effects of urban noise , no comprehensive city-wide study has been undertaken that can provide a validated model for studying urban sound in order to develop long-lasting interventions at the operational or policy level.

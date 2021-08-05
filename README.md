@@ -34,7 +34,7 @@ The sensor network deployments in the reviewed literature are typically short in
 <img src=images/sonyc_logo.jpeg width="300">
 
 
-A list of other publications that feature the SONYC project can be found on the SONYC website [here](hhttps://wp.nyu.edu/sonyc/).
+A list of other publications that feature the SONYC project can be found on the SONYC website [here](https://wp.nyu.edu/sonyc/).
 
 
 ### New York Times

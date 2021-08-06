@@ -37,8 +37,6 @@ At the Sounds Of New York City or SONYC project, we have deployed a network of o
 
 Some of these nodes have been operational since May of 2016, resulting in the accumulation of vast amounts of calibrated sound pressure level (SPL) data and it’s associated metrics. Cumulatively to date, 150 years of SPL and 75 years of raw audio data has been collected from the sensor network. This data can be used to identify longitudinal patterns of noise pollution across urban settings. Using the inferences from this data, decision makers at city agencies can strategically utilize the human resources at their disposal, i.e. by effectively deploying costly noise inspectors to offending locations automatically identified by the network. The continuous and long term monitoring of noise patterns allows for the validation of the effect of this mitigating action in both time and space, information that can be used to understand and maximize the impact of future action. By systematically monitoring interventions, one can understand how often penalties need to be imparted before the effect becomes long-term.
 
- The overarching goal would be to understand how to minimize the cost of interventions while maximizing noise mitigation. This is a classic resource allocation problem that motivates much research on smart-cities initiatives, including this one.
-
 ## Hardware
 
 The acoustic sensor nodes primarily consist of off-the-shelf hardware to drive down the overall cost of each node. The figure below shows the components of each sensor.

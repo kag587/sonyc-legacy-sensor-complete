@@ -9,15 +9,17 @@ The Sounds Of New York City or SONYC project was partially funded by a [National
 <br>
 ## Content of this repository
 
-1. [Parts:](https://github.com/kag587/sonyc-legacy-sensor-complete/tree/master/parts) List of all of the parts needed to build a sensor.
+1. [Parts:](parts) List of all of the parts needed to build a sensor.
 
-2. [Build:](https://github.com/kag587/sonyc-legacy-sensor-complete/tree/master/build) Step-by-step building instructions for sensors.
+2. [Microphone:](microphone) Details on the project's custom MEMS microphone board including: bill of materials, design files, and firmware.
 
-3. [Code:](https://github.com/kag587/sonyc-legacy-sensor-complete/tree/master/code) Codebase for SONYC sensors and servers.
+3. [Build:](build) Step-by-step building instructions for sensors.
 
-4. [Docs:](https://github.com/kag587/sonyc-legacy-sensor-complete/tree/master/docs) Additional documents and information about SONYC Legacy sensors.
+4. [Code:](code) Codebase for SONYC sensors and servers.
 
-5. [SD-Setup:](https://github.com/kag587/sonyc-legacy-sensor-complete/tree/master/sd-setup) Info about the specific Raspian OS used for this project as well as how to use it.
+5. [Docs:](docs) Additional documents and information about SONYC Legacy sensors.
+
+6. [SD-Setup:](sd-setup) Info about the specific Raspian OS used for this project as well as how to use it.
 
 
 ## Introduction
